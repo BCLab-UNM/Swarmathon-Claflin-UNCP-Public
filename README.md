@@ -1,2 +1,1 @@
-# Swarmathon-UPR
-Universidad de Puerto Rico
+# University of North Carolina at Pembroke
